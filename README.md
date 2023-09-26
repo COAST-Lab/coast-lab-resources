@@ -16,3 +16,5 @@ Please see https://coast-lab.org/lab-members/ for more information regarding opp
 ## Conference Attendance
 Attending a scientific conference is a wonderful way to meet peers, learn about cutting-edge research, and potentially find job opportunities. UNCW offers travel grants to facilitate conference participation, EOS has some travel money, and the COAST Lab often has additional resources. Please reach out if you have questions about how to find these resources.
 
+## Expectations
+Work in progress...
