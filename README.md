@@ -48,6 +48,7 @@ Work in progress...
 2. Take notes! 
 3. (Reiterating 1 and 2:) Please don't use electronics during group meetings unless presenting or taking electronic notes.
 4. Ask questions. 
+5. Take initiative to find answers to your questions, but always ask questions and follow standard operating procedures and/or material safety data sheet (MSDS) guidelines, especially when using new procedures/materials. There is no question "too dumb" to ask.
 
 ## Credit
 This document borrows heavily and is modified from six open source Code of Conduct documents: http://gilbertlab.ucsd.edu/our-team/expectations-principles/ and its sources: (i) BahlaiLab CoC (Christine Bahlai); (ii) WhitakerLab (Kirstie Whitaker); (iii) Hill Lab (Jon Hill); (iv) Krevorlab (Sam Krevor); (v) MicroMicEng (Ben Britton); (vi) Basins Research Group – Christopher Jackson.
